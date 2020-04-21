@@ -52,14 +52,12 @@
     	<th colspan="2"></th>
     </tr>
     <tr>
-        <th></th>
         <th colspan="1">PNG</th>
         <th colspan="1">SVG</th>
     </tr>
         <tr>
         <td><img src="finops-landscape/finops-landscape.svg" width="200"></td>
-        <td><img src="finops-landscape/finops-landscape.png" width="200"></td>
-        
+        <td><img src="finops-landscape/finops-landscape.png" width="200"></td>     
     </tr>
    </table>
 
