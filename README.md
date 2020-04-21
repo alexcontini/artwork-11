@@ -47,6 +47,11 @@
     </tr>
 </table>
 
+
+
+## FinOps Landscape Logos
+
+
 <table>
     <tr>
     	<th colspan="2"></th>
